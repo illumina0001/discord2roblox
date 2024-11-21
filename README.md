@@ -25,7 +25,7 @@ Then, get the name of your project (it will be in the URL bar at "glitch.com/edi
 Make a new Script in ServerScriptService in your roblox game and paste the code from [roblox.lua](https://github.com/illumina0001/discord2roblox/blob/main/roblox.lua) into the script. Then, modify the "endpoint" variable with your Glitch project name or hosting URL.
 
 **5. Set up Discord bot**
-Download [https://github.com/illumina0001/discord2roblox/blob/main/bot.py](https://github.com/illumina0001/discord2roblox/blob/main/bot.py) onto whatever you'll use to host your bot. Then replace DISCORD_TOKEN with the discord token we got earlier, GLITCH_URL with the same URL you used in the Roblox script in the endpoint variable, and the ROLE_ID with the ID of the role of the people you want to have access to the command. Then, run your bot and enjoy!
+Download [bot.py](https://github.com/illumina0001/discord2roblox/blob/main/bot.py) onto whatever you'll use to host your bot. Then replace DISCORD_TOKEN with the discord token we got earlier, GLITCH_URL with the same URL you used in the Roblox script in the endpoint variable, and the ROLE_ID with the ID of the role of the people you want to have access to the command. Then, run your bot and enjoy!
 
 ## Usage
 You can execute any code you want in your Roblox game with !run (code), but if you're going to use it to ban, use !run :ban (username) (reason).
